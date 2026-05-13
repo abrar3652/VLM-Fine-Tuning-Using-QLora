@@ -1,7 +1,7 @@
-streamlit==1.32.0
-torch
+streamlit>=1.40.0
+transformers>=5.0.0
+torch>=2.2.0
 torchvision
-transformers>=4.46.1
 peft
 accelerate
 bitsandbytes
